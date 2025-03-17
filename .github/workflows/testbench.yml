@@ -1,6 +1,6 @@
 ---
 env:
-  TB_ENTITY: stoplight_tb
+  TB_ENTITY: stoplight_fsm_tb
 
 name: GHDL Testbench
 on: [push]
